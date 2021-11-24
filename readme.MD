@@ -1,0 +1,4 @@
+- python coding task
+- i've gone with the quickest solution
+- i've taken users and roles as they were given in the specifications. i have not created methods to add new users or roles as it was not a requirement.
+- run the method getSubOrdinates(user_id) to get a list of subordinates for that user is. 
